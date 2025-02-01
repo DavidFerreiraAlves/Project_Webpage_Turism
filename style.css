@@ -2,20 +2,59 @@
 
 * {
     font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    background-color: #F5F4F0;
+    
 }
 
 .pretitulo {
-    color: #E95E10;
+    color: #E1624F;
     font-weight: bold;
     font-size: 16px;
+    margin-bottom: 8px;
+}
+
+#pretwo {
+    margin-bottom: 2px;
 }
 
 h1 {
     font-weight: bold;
     font-size: 36px;
+    margin; 0px;
 }
 
+#busancity {
+    margin-top: 40px;
+}
+
+#text_terc {
+    color: #696969;
+    text-align: center;
+    margin-top: 24px;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-left: auto;
+   
+    
+}
 h2 {
     font-weight: bold;
     font-size: 32px;
+}
+
+ul {
+    font-weight: bold;
+}
+
+.historia {
+    color: #0C51A7;
+}
+
+main { 
+    margin:88px 80px 137px 80px;
+    background-color: #F5F4F0;
+}
+
+footer {
+    text-align: center;
 }
