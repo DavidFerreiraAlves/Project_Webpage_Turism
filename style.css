@@ -1,8 +1,21 @@
 @charset "UTF-8";
 
 * {
-    font-family: "Open Sans", Arial, Helvetica, sans-serif;
-    background-color: #F5F4F0;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;    
+}
+
+body {
+    background-color: #1B1B1B;
+    border-radius: 40px;
+    margin: 80px;
+}
+
+#infopage {
+    color: #F5F4F0;
+    margin-left: 80px;
+    margin-bottom: 0px;
+    
+
     
 }
 
@@ -20,14 +33,24 @@
 h1 {
     font-weight: bold;
     font-size: 36px;
-    margin; 0px;
+    margin-top: 0px;
+    margin-left: 16px;
 }
 
-#busancity {
-    margin-top: 40px;
+#foto1 {
+    margin-left: 16px;
+    
+    
+}
+
+#foto2 {
+    position: left;
+    border-left: 16px;
+    margin-left: 16px;
 }
 
 #text_terc {
+    font-style: italic;
     color: #696969;
     text-align: center;
     margin-top: 24px;
@@ -46,8 +69,15 @@ ul {
     font-weight: bold;
 }
 
+
 .historia {
     color: #0C51A7;
+}
+
+p {
+    font-style: normal;
+    margin-left: 16px;
+    margin-right: 150px;
 }
 
 main { 
@@ -55,6 +85,29 @@ main {
     background-color: #F5F4F0;
 }
 
+#colorlist1 {
+    color: #591B98;
+}
+
+#colorlist2 {
+    color: #E5245E;
+}
+
+#colorlist3 {
+    color: #E95E10;
+}
+#secthree {
+    margin-top: 80px;
+    text-align: center ;
+}
+
 footer {
     text-align: center;
+    margin-top: 65px;
+    margin-bottom: 48px;
+    
+    
+
+    
+    
 }
